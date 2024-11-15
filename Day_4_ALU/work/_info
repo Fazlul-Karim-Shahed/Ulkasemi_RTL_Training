@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4
+valu
+Z0 !s110 1731693661
+!i10b 1
+!s100 gIXh]Z9MdoSMQRG=Ghg[T0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I5@lRb9?`Lnz`L86YZLKM50
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU
+w1731688318
+8C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/alu.v
+FC:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/alu.v
+!i122 66
+L0 2 20
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1731693661.000000
+!s107 C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/alu.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vread_write_fsm
+R0
+!i10b 1
+!s100 X9f7_>_B>90^43SIf2FaR0
+R1
+IE;h=^^?zhM_bdQR;Mm[S;1
+R2
+R3
+w1731693469
+8C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/read_write_fsm.v
+FC:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/read_write_fsm.v
+!i122 67
+L0 3 65
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/read_write_fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/read_write_fsm.v|
+!i113 1
+R6
+R7
+vregister_bank
+R0
+!i10b 1
+!s100 <f_Bn_mVRc^Col9<c><z[0
+R1
+Ibl:AGzKf`=QU^B_VDTGJD2
+R2
+R3
+w1731692725
+8C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/register_bank.v
+FC:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/register_bank.v
+!i122 68
+L0 2 36
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/register_bank.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/register_bank.v|
+!i113 1
+R6
+R7
+vtb_top
+R0
+!i10b 1
+!s100 H7_X4:>627g;S;O`4=I;61
+R1
+IAeKgB9@J:;1LzAd;>UaJD3
+R2
+R3
+w1731693653
+8C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/tb_top.v
+FC:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/tb_top.v
+!i122 69
+L0 2 119
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/tb_top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/tb_top.v|
+!i113 1
+R6
+R7
+vtop_module
+!s110 1731693662
+!i10b 1
+!s100 gEWI`<2?mkNP:J5L5:6_U3
+R1
+ID0GaXPSdP3:I@J`Ed2AdK1
+R2
+R3
+w1731691257
+8C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/top_module.v
+FC:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/top_module.v
+!i122 70
+L0 2 55
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/top_module.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/fazlu/OneDrive/Desktop/RTL_Training/Day_4_ALU/top_module.v|
+!i113 1
+R6
+R7
